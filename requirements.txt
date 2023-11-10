@@ -1,0 +1,11 @@
+timm
+albumentations
+numpy
+tqdm
+opencv-python
+scipy
+matplotlib
+einops
+addict
+segmentation_models_pytorch
+
