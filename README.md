@@ -5,11 +5,11 @@ Remote sensing image building segmentation, which is essential in land use and u
 
 LMSwin_ The overall network architecture of PNet：
 
-![network](C:\Users\27248\Desktop\temp\1211\network.png)
+![network](https://github.com/ziyanpeng/pzy/blob/master/network.png)
 
 Visualization results of segmentation using different (Sota) semantic segmentation networks：
 
-![xiaorong](C:\Users\27248\Desktop\temp\1211\xiaorong.png)
+![xiaorong](https://github.com/ziyanpeng/pzy/blob/master/xiaorong.png)
 
 If you have any questions during use, please contact us. Our email address is: m210200619@st.shou.edu.cn.
 
