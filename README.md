@@ -11,7 +11,9 @@ Visualization results of segmentation using different (Sota) semantic segmentati
 
 ![xiaorong](https://github.com/ziyanpeng/pzy/blob/master/xiaorong.png)
 Data Availability Statement: The data used in this study are from open-source datasets. The datasets can be downloaded from Road and Building Detection Datasets (toronto.edu), https://gpcv.whu.edu.cn/data/building_dataset.html and Download – Inria Aerial Image Labeling Dataset(accessed on 17 January 2024).
+
 Our training data has been uploaded to Baidu Cloud: 链接：https://pan.baidu.com/s/1Tq2ft-g4B3_dqRY9N9ytPA?pwd=1234 
 提取码：1234
+
 If you have any questions during use, please contact us. Our email address is: m210200619@st.shou.edu.cn.
 
